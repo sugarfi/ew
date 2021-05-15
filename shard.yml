@@ -1,0 +1,17 @@
+name: ew
+version: 0.1.0
+
+authors:
+  - violet email@sugarfi.dev
+
+description: |
+  a yucky package manager
+
+dependencies:
+  toml:
+    github: crystal-community/toml.cr
+    branch: master
+  crystar:
+    github: naqvis/crystar
+
+license: WTFPL

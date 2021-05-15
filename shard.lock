@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  crystar:
+    git: https://github.com/naqvis/crystar.git
+    version: 0.2.0
+
+  toml:
+    git: https://github.com/crystal-community/toml.cr.git
+    version: 0.7.0+git.commit.7852db986976679bd39a8b3b3172cae5a8c6a2b3
+
