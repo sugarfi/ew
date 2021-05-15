@@ -333,6 +333,8 @@ module Ew::CLI
                         error "couldn't fetch url"
                     end
                 end
+            else
+                error "couldn't fetch url"
             end
         end
     end
